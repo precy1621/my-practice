@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(72, 87, 82);
+}
+
+.container {
+  border: 2px solid white;
+  background-color: white;
+    margin-top: 10%;
+    width: 20%;
+    
+} 
+
+header  {
+    text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+     color: cadetblue;
+}
+
+header h4{
+    color:white;
+    
+}
+
+.container form {
+
+}

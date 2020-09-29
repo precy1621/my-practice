@@ -1,0 +1,174 @@
+.banner {
+    background: url(../img/pariss.jpg) no-repeat;
+    width: 695px;
+    height: 231px;
+    clear: both;
+    margin: 10px 0px 0px 10px;
+    position: relative;
+}
+.slick {
+    width: 54%;
+    background:#242324;
+    opacity: 0.7;
+    margin-left: 10px;
+}
+.slick p {
+    color: white;
+    font-size: 23px;
+    line-height: 35px;
+    margin-top: 110px;
+    
+    font-weight: bold;
+
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #353535;
+}
+
+a {
+    color:#7e7e7e;
+    text-decoration: none;
+}
+
+a:hover, .selected {
+    color: black;
+    
+}
+
+.button {
+    background: #242324;
+    padding: 6px;
+    font-size:12px;
+    text-transform: uppercase;
+    color:white;
+    
+}
+
+.button:hover {
+    color:whitesmoke;
+}
+
+header {
+    overflow: hidden;
+}
+
+header h1 {
+    background: url(../img/bb.png) no-repeat;
+    text-indent: -9999px;
+    width: 174px;
+    height: 23px;
+    margin:10px 10px 22px;
+    float:left;
+}
+
+.empty {
+    background: black;
+    margin: 10px 40px;
+ 
+    height: 228px;
+}
+
+nav {
+    float: right;
+    margin-left: 0px;
+}
+
+nav ul {
+    padding-top: 12px;
+  
+}
+
+nav li {
+    display:inline;
+   margin-left: 24px;
+
+}
+
+nav a {
+    text-transform: lowercase;
+}
+
+
+.main {
+    margin-top: 10px;
+}
+
+
+blockquote, blockquote p {
+    font-size: 15px;
+    line-height: 20px;
+    font-style: italic;
+    color: #0e0e0e;
+}
+
+ .block blockquote {
+    position: relative;
+}
+.block blockquote p {
+    margin-top: 2px;
+    padding-left: 30px;
+}
+
+
+.block blockquote p:before,
+.block blockquote p:after
+{
+    font-size: 40px;
+    color: #dfdfdf;
+}
+ 
+.block blockquote p:first-child:before {
+    content: "''";
+    position: absolute;
+    top:7px;
+    bottom: 0px;
+    margin-left: -30px;
+}
+
+.block blockquote p:last-child:after {
+    content: "''";
+    float:right;
+    position: absolute;
+    bottom: -10px;
+}
+
+.main p {
+    margin-top: 10px;
+}
+
+
+
+.main h1 {
+    border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 1em;
+    font-size: 25;
+    font-family: arial black;
+   
+}
+
+
+footer {
+    clear: both;
+    position: relative;
+}
+.foot p {
+    position: absolute;
+    top: 20px ;
+    width: 100%;
+    padding-top: 20px;
+    border-top:1px solid #d1d1d1;
+} 
+
+
+
+
+
+
+

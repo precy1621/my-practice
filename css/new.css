@@ -1,0 +1,203 @@
+.row {
+    width: 100%;
+
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.32%;
+}
+
+.col-5 {
+    width: 41.65%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.31%;
+}
+
+.col-8 {
+    width: 66.64%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.3%;
+}
+
+.col-11 {
+    width: 91.63%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.ds-flex{
+    display: flex;
+}
+.ds-block{
+    display: block;
+}
+.container-90{
+    width: 90%;
+    margin: auto;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.container-fluid{
+    width: 100%;
+    padding: 5%;
+}
+.container-70 {
+    width: 70%;
+    margin: auto;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.pad-20{
+    padding: 20%;
+}
+.pl-5 {
+    padding-left: 5px;
+}
+.mr-auto{
+    margin: auto;
+}
+.mr-0{
+    margin-right: 0px;
+}
+.txt-center{
+    text-align: center;
+}
+.pl-11{
+    padding-left: -10px;
+
+}
+.pr-0{
+    padding-right: -50px;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.h1{
+    height: 80vh !important;
+}
+body{
+    overflow-x: hidden;
+}
+.h-10{
+    height: 3px ;
+    font-size: 15px;
+}
+.h-501{
+    height: 50px;
+}
+.h-60{
+    height: 60%;
+}
+.h-60{
+    height: 65%;
+}
+.h-70{
+    height: 70%;
+}
+.h-200{
+    height: 200px;
+}
+.h-300{
+    height: 300px;
+}
+.h-400{
+    height: 400px;
+}
+.yellow {
+    background-color: yellow;
+}
+.black {
+    background-color: black;
+}
+.h-750{
+    height: 700px;
+}
+.h-600{
+    height: 600px;
+}
+.h-500 {
+    height: 500px;
+}
+.h-250 {
+    height: 200px;
+}
+.mt-1 {
+    margin-top: 10px;
+}
+.mt-3{
+    margin-top: 30px;
+}
+.mb-2 {
+    margin-bottom: 20px;
+}
+.mt-50 {
+    margin-top: 50px;
+}
+.mt-100 {
+    margin-top: 100px;
+}
+.grey {
+    color:grey;
+}
+.br-2 {
+    border-radius: 10px;
+}
+.mt-2{
+    margin-top: 20px;
+}
+.ml-1{
+    margin-left: 10px;
+}
+.ml-2{
+    margin-left: 50px;
+}
+.purple{
+    background-color: purple;
+}
+.h-250{
+    height: 250px;
+}
+.green{
+    background-color: green;
+}
+.gold{
+    background-color: gold;
+}
+.h-125{
+    height: 125px;
+}

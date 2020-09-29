@@ -1,0 +1,48 @@
+.ban {
+    background: url(../img/final1.jpg) no-repeat;
+    width: 695px;
+    height: 231px;
+    clear: both;
+    margin: 10px 0px 0px 10px;
+    position: relative;
+
+} 
+.emp {
+    background: url(../img/final.jpg) no-repeat;
+    width: 695px;
+    height: 231px;
+    margin: 10px 0px 0px 10px;
+    
+}
+
+
+header {
+    overflow: hidden;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    color: #353535;
+}
+
+.man {
+    margin-top: 15px;
+ 
+}
+
+.man h1, h3 {
+    font-size: 20px;
+}
+
+.man h3 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #d1d1d1;
+    color: #787878;
+    line-height: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
